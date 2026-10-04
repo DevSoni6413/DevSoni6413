@@ -3,8 +3,7 @@
 3rd-year ECE student at CHARUSAT, working toward a career in VLSI Design Verification.
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/
-dev-v-soni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-v-soni)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devsoni.6413@gmail.com)
 
 ### 💻 Tech Stack
